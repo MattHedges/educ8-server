@@ -1,0 +1,164 @@
+[
+    {
+        "model": "educ8api.category",
+        "pk": 1,
+        "fields": {
+            "name": "Core JavaScript",
+            "description": "This category includes the fundamental features and syntax of JavaScript, such as variables, data types, operators, functions, control flow statements (if-else, loops), and basic object-oriented programming concepts.",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.category",
+        "pk": 2,
+        "fields": {
+            "name": "Browser-based JavaScript",
+            "description": "JavaScript is commonly used for creating interactive web applications and manipulating web page content. It involves interacting with the Document Object Model (DOM) to access and modify HTML elements, handle events, make AJAX requests, and create dynamic web experiences.",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.category",
+        "pk": 3,
+        "fields": {
+            "name": "Node.js",
+            "description": "Node.js is a runtime environment that allows JavaScript to run on the server-side. It provides server-side capabilities like file system access, networking, and building web servers. Node.js also has a vast ecosystem of modules, enabling developers to build scalable and efficient server applications.",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.category",
+        "pk": 4,
+        "fields": {
+            "name": "Front-end frameworks and libraries",
+            "description": "JavaScript has numerous frameworks and libraries that simplify front-end development. Examples include React.js, AngularJS, and Vue.js. These frameworks provide structure and tools for building complex user interfaces, managing state, and handling data flow in web applications.",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.category",
+        "pk": 5,
+        "fields": {
+            "name": "Back-end frameworks",
+            "description": "JavaScript is also used on the server-side with frameworks like Express.js and NestJS. These frameworks help in building robust and scalable back-end APIs, handling routing, middleware, and database interactions.",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.category",
+        "pk": 6,
+        "fields": {
+            "name": "Data manipulation and visualization",
+            "description": "JavaScript has various libraries and tools for data manipulation, analysis, and visualization. Libraries like D3.js, Chart.js, and Plotly.js allow developers to create interactive charts, graphs, and visualizations based on data.",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.category",
+        "pk": 7,
+        "fields": {
+            "name": "Game development",
+            "description": "JavaScript is often used in game development, both for browser-based games and for building games with frameworks like Phaser or game engines like Unity and Unreal Engine, which provide JavaScript scripting capabilities.",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.category",
+        "pk": 8,
+        "fields": {
+            "name": "Mobile app development",
+            "description": "JavaScript can also be used for developing mobile applications using frameworks like React Native or Apache Cordova (PhoneGap). These frameworks allow developers to build cross-platform mobile apps using JavaScript and native components.",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.category",
+        "pk": 9,
+        "fields": {
+            "name": "Desktop application development",
+            "description": "With frameworks like Electron, JavaScript can be used to build desktop applications that run on Windows, macOS, and Linux.",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.category",
+        "pk": 10,
+        "fields": {
+            "name": "Testing and Quality Assurance",
+            "description": "JavaScript has frameworks and libraries dedicated to testing and ensuring code quality. Examples include Jest, Mocha, Chai, and Jasmine, which allow developers to write unit tests, integration tests, and perform test-driven development (TDD).",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.category",
+        "pk": 11,
+        "fields": {
+            "name": "Task Runners and Build Tools",
+            "description": "JavaScript build tools automate repetitive tasks in the development workflow. Popular ones include Grunt, Gulp, and webpack. They help with tasks like code minification, bundling, transpiling, and optimizing assets.",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.category",
+        "pk": 12,
+        "fields": {
+            "name": "Package Managers",
+            "description": "JavaScript package managers simplify dependency management and package distribution. npm (Node Package Manager) is the most widely used package manager for JavaScript. Yarn is another popular choice that provides faster and more reliable dependency management.",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.category",
+        "pk": 13,
+        "fields": {
+            "name": "Asynchronous Programming",
+            "description": "JavaScript excels in handling asynchronous operations. Promises and the newer async/await syntax make it easier to write and manage asynchronous code. Libraries like async.js and lodash also provide utility functions for working with asynchronous operations.",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.category",
+        "pk": 14,
+        "fields": {
+            "name": "Data Storage and Databases",
+            "description": "JavaScript can interact with databases using libraries like MongoDB for NoSQL databases or Sequelize for SQL databases. IndexedDB allows client-side storage of structured data, while Web Storage (localStorage and sessionStorage) provides simpler key-value pair storage.",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.category",
+        "pk": 15,
+        "fields": {
+            "name": "Serverless Computing",
+            "description": "JavaScript is commonly used in serverless architectures, where code runs in response to events. AWS Lambda, Google Cloud Functions, and Azure Functions support JavaScript as a primary language for writing serverless functions.",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.category",
+        "pk": 16,
+        "fields": {
+            "name": "Artificial Intelligence and Machine Learning",
+            "description": "JavaScript has libraries like TensorFlow.js, Brain.js, and ml5.js that enable machine learning and AI in the browser. These libraries allow developers to train models, make predictions, and perform tasks like image recognition and natural language processing.",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.category",
+        "pk": 17,
+        "fields": {
+            "name": "Internet of Things (IoT)",
+            "description": "JavaScript can be used in IoT applications with platforms like Johnny-Five and Espruino. These platforms provide JavaScript APIs to control and interact with hardware devices, making it easier to develop IoT solutions.",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.category",
+        "pk": 18,
+        "fields": {
+            "name": "Blockchain and Cryptocurrency",
+            "description": "JavaScript has frameworks like Ethereum's web3.js and libraries like bitcoinjs-lib for building blockchain applications and interacting with cryptocurrencies.",
+            "language": 1
+        }
+    }
+]

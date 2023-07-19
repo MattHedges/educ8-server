@@ -1,0 +1,302 @@
+[
+    {
+        "model": "educ8api.question",
+        "pk": 1,
+        "fields": {
+            "question": "What is the purpose of the push() method in JavaScript arrays?",
+            "answer": "The push() method is used to add one or more elements to the end of an array. It modifies the original array and returns the new length of the array.",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+            "model": "educ8api.question",
+            "pk": 2,
+            "fields": {
+                "question": "How many data types are there in javascript? Name them all",
+                "answer": "String, Number, Bigint, Boolean, Undefined, Null, Symbol, Object, Functions",
+                "example": "",
+                "language": 1
+            }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 3,
+        "fields": {
+            "question": "What other data types are also considered a part of the object data type",
+            "answer": "Arrays, Dates, and regular expressions. They are built-in objects that have their own properties and methods",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 4,
+        "fields": {
+            "question": "What is the purpose of the pop() method in JavaScript arrays?",
+            "answer": "The pop() method is used to remove the last element from an array and return that element. It modifies the original array by removing the element from the end.",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 5,
+        "fields": {
+            "question": "What is the purpose of the shift() method in JavaScript arrays?",
+            "answer": "The shift() method in JavaScript arrays is used to remove the first element from an array and return that element. It modifies the original array by shifting the remaining elements to a lower index.",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 6,
+        "fields": {
+            "question": "What is the purpose of the unshift() method in JavaScript arrays?",
+            "answer": "The unshift() method in JavaScript arrays is used to add one or more elements to the beginning of an array. It modifies the original array by shifting the existing elements to a higher index.",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 7,
+        "fields": {
+            "question": "What is the purpose of the concat() method in JavaScript arrays?",
+            "answer": "The concat() method in JavaScript arrays is used to combine two or more arrays or values into a new array. It does not modify the original arrays but instead returns a new array that contains the concatenated elements.",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+    "model": "educ8api.question",
+    "pk": 8,
+    "fields": {
+        "question": "What is the purpose of the join() method in JavaScript arrays?",
+        "answer": "The join() method in JavaScript arrays is used to join all the elements of an array into a single string. It does not modify the original array but instead returns a new string that contains the concatenated elements.",
+        "example": "",
+        "language": 1
+        }
+    },
+    {
+    "model": "educ8api.question",
+    "pk": 9,
+    "fields": {
+        "question": "What is the purpose of the slice() method in JavaScript arrays?",
+        "answer": "The slice() method in JavaScript arrays is used to extract a portion of an array and return a new array containing the selected elements. It does not modify the original array.",
+        "example": "",
+        "language": 1
+        }
+    },
+    {
+    "model": "educ8api.question",
+    "pk": 10,
+    "fields": {
+        "question": "What is the purpose of the splice() method in JavaScript arrays?",
+        "answer": "The splice() method in JavaScript arrays is used to change the contents of an array by removing, replacing, or adding elements. It modifies the original array and returns an array containing the removed elements, if any.",
+        "example": "",
+        "language": 1
+        }
+    },
+    {
+    "model": "educ8api.question",
+    "pk": 11,
+    "fields": {
+        "question": "What is the purpose of the indexOf() method in JavaScript arrays?",
+        "answer": "The indexOf() method in JavaScript arrays is used to find the index of the first occurrence of a specified element within an array. It returns the index of the element if found, or -1 if the element is not present in the array.",
+        "example": "",
+        "language": 1
+        }
+    },
+    {
+    "model": "educ8api.question",
+    "pk": 12,
+    "fields": {
+        "question": "What is the purpose of the forEach() method in JavaScript arrays?",
+        "answer": "The forEach() method in JavaScript arrays is used to iterate over the elements of an array and perform a specified action for each element. It executes a provided function once for each array element, in ascending order.",
+        "example": "",
+        "language": 1
+        }
+    },
+    {
+    "model": "educ8api.question",
+    "pk": 13,
+    "fields": {
+        "question": "What is the purpose of the push() method in JavaScript arrays?",
+        "answer": "The push() method in JavaScript arrays is used to add one or more elements to the end of an array. It modifies the original array and returns the new length of the array.",
+        "example": "",
+        "language": 1
+        }
+    },
+    {
+    "model": "educ8api.question",
+    "pk": 14,
+    "fields": {
+        "question": "What is the purpose of the toString() method in JavaScript arrays?",
+        "answer": "The toString() method in JavaScript arrays is used to convert an array to a string representation. It returns a string that consists of the array elements separated by commas.",
+        "example": "",
+        "language": 1
+        }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 15,
+        "fields": {
+            "question": "What is the purpose of the delete() method in JavaScript arrays?",
+            "answer": "The delete operator is used to remove a property from an object or an element from an array. When used with an array, it removes the element at a specified index and leaves an empty slot in the array.",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 16,
+        "fields": {
+            "question": "",
+            "answer": "",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 17,
+        "fields": {
+            "question": "",
+            "answer": "",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 18,
+        "fields": {
+            "question": "",
+            "answer": "",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 19,
+        "fields": {
+            "question": "",
+            "answer": "",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 20,
+        "fields": {
+            "question": "",
+            "answer": "",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 21,
+        "fields": {
+            "question": "",
+            "answer": "",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 22,
+        "fields": {
+            "question": "",
+            "answer": "",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 23,
+        "fields": {
+            "question": "",
+            "answer": "",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 24,
+        "fields": {
+            "question": "",
+            "answer": "",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 25,
+        "fields": {
+            "question": "",
+            "answer": "",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 26,
+        "fields": {
+            "question": "",
+            "answer": "",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 27,
+        "fields": {
+            "question": "",
+            "answer": "",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 28,
+        "fields": {
+            "question": "",
+            "answer": "",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 29,
+        "fields": {
+            "question": "",
+            "answer": "",
+            "example": "",
+            "language": 1
+        }
+    },
+    {
+        "model": "educ8api.question",
+        "pk": 30,
+        "fields": {
+            "question": "",
+            "answer": "",
+            "example": "",
+            "language": 1
+        }
+    }
+]

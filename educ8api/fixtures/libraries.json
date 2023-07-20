@@ -1,0 +1,75 @@
+[
+    {
+        "model": "educ8api.library",
+        "pk": 1,
+        "fields": {
+            "name": "",
+            "language": 1,
+            "summary": "",
+        }
+    },
+    {
+        "model": "educ8api.library",
+        "pk": 2,
+        "fields": {
+            "name": "",
+            "language": 1,
+            "summary": "",
+        }
+    },
+    {
+        "model": "educ8api.library",
+        "pk": 3,
+        "fields": {
+            "name": "",
+            "language": 1,
+            "summary": "",
+        }
+    },
+    {
+        "model": "educ8api.library",
+        "pk": 4,
+        "fields": {
+            "name": "",
+            "language": 1,
+            "summary": "",
+        }
+    },
+    {
+        "model": "educ8api.library",
+        "pk": 5,
+        "fields": {
+            "name": "",
+            "language": 1,
+            "summary": "",
+        }
+    },
+    {
+        "model": "educ8api.library",
+        "pk": 6,
+        "fields": {
+            "name": "",
+            "language": 1,
+            "summary": "",
+        }
+    },
+    {
+        "model": "educ8api.library",
+        "pk": 7,
+        "fields": {
+            "name": "",
+            "language": 1,
+            "summary": "",
+        }
+    },
+    {
+        "model": "educ8api.library",
+        "pk": 8,
+        "fields": {
+            "name": "",
+            "language": 1,
+            "summary": "",
+        }
+    },
+
+]
